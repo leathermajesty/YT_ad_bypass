@@ -1,11 +1,10 @@
-# YouTube t=0 Extension
+# YouTube Extension
 
 A simple Chrome extension that appends `t=0` to the current YouTube video's URL with a single click.
 
 ## Features
 
 - Adds `t=0` to the current YouTube video URL.
-- Prevents adding the parameter multiple times.
 - Lightweight and easy to use.
 - Built using Manifest V3.
 
@@ -14,8 +13,7 @@ A simple Chrome extension that appends `t=0` to the current YouTube video's URL 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/youtube-t0-extension.git
-```
+git clone https://github.com/leathermajesty/YT_add_bypass.git
 
 2. Open Chrome and go to:
 
@@ -64,6 +62,4 @@ youtube-t0-extension/
 - JavaScript
 - Chrome Extensions API (Manifest V3)
 
-## License
 
-This project is licensed under the MIT License.
