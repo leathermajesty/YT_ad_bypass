@@ -15,6 +15,7 @@ A simple Chrome extension that appends `t=0` to the current YouTube video's URL 
 ```bash
 git clone https://github.com/leathermajesty/YT_add_bypass.git
 
+```
 2. Open Chrome and go to:
 
 ```
