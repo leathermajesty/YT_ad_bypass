@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube t=0",
+  "version": "1.0",
+  "description": "Adds t=0 to the current YouTube video URL.",
+  "permissions": ["tabs"],
+  "host_permissions": ["https://*.youtube.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
